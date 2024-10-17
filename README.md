@@ -1,7 +1,6 @@
-# Team-4
-Based on the provided code files and the attached presentation, here is a sample README for your GitHub project:
+# Cause Connect - Code for Good
+<img width="270" alt="cconnect" src="https://github.com/user-attachments/assets/0b6d5b6d-c3a2-426a-80cc-92fdfa74964b">
 
-Cause Connect - Code for Good
 
 Cause Connect is a web application that automates and accelerates the process of matching nonprofit organizations with emerging leaders. It aims to reduce the time spent manually screening and contacting nonprofits, provide a more personalized experience, and improve the overall matching process by aligning candidates’ interests with nonprofit missions.
 
